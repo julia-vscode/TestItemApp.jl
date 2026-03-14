@@ -1,0 +1,16 @@
+name = "TestItemApp"
+uuid = "3c47ebe9-cd35-4ffd-8ef3-ab920089c471"
+version = "0.1.0"
+authors = ["David Anthoff <anthoff@berkeley.edu>"]
+
+[deps]
+JuliaWorkspaces = "e554591c-7f10-434f-9f27-2097f62a04fd"
+Tachikoma = "468859d6-42d8-48b7-8ad9-1d312e0e3b0a"
+TestItemControllers = "340407ab-12a4-4a78-8da2-3de3b3fd1448"
+TestItemRunner2 = "e1dee961-0fd3-483e-9ab1-c4c3c701c341"
+
+[compat]
+JuliaWorkspaces = "7.0.0"
+Tachikoma = "1.1.1"
+TestItemControllers = "1.0.0"
+TestItemRunner2 = "0.1.0"
